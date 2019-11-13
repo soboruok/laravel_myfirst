@@ -1,0 +1,30 @@
+재고가 있는 경우 -> 페인트
+재고가 있고, 페인트된것이 있다면, -> 패킹만
+재고가 없는 경우 -> 매트를 만들고 -> 페이트 -> 패킹 
+
+RAW, PAINT, PACKING 
+
+
+STOCK Search
+Raw family OL  10
+Raw family OL  5
+Raw olympic OL  5
+Raw olympic OL  5
+Raw Elite NL  20
+Raw Elite NL  20
+Raw custom 5x5 OL  10
+Raw custom 11x7 OL  5
+
+재고테이블
+Package, 매트종류, 기계, 색깔,  Qty, location
+Roll family OL Green 10
+Roll family OL Blue 5
+Roll olympic OL Green 5
+Roll olympic OL Blue 5
+Roll Elite NL Green 20
+Roll Elite NL Blue 20
+Roll custom 5x5 OL Pink 10
+Roll custom 11x7 OL Blue 5
+
+
+ 
